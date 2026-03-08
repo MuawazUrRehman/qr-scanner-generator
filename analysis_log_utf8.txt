@@ -1,0 +1,37 @@
+﻿Analyzing qr_scanner...                                         
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\batch\batch_list_screen.dart:62:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\batch\batch_list_screen.dart:110:44 - deprecated_member_use
+warning - Unused import: 'package:flutter/material.dart' - lib\features\batch\batch_service.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\create\create_qr_screen.dart:243:79 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\create\create_qr_screen.dart:387:11 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\create\create_qr_screen.dart:388:11 - deprecated_member_use
+warning - The value of the local variable 'timeFormat' isn't used - lib\features\create\create_qr_screen.dart:398:12 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\favorites\favorites_screen.dart:84:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\favorites\favorites_screen.dart:135:41 - deprecated_member_use
+warning - Unnecessary cast - lib\features\favorites\favorites_service.dart:40:53 - unnecessary_cast
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\history\history_screen.dart:232:43 - deprecated_member_use
+warning - The declaration '_onWillPop' isn't referenced - lib\features\home\home.dart:128:16 - unused_element
+   info - Statements in an if should be enclosed in a block - lib\features\home\home.dart:157:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\home\home.dart:159:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\home\home.dart:161:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\home\home.dart:163:7 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home.dart:306:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home.dart:407:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home.dart:486:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home.dart:589:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\home.dart:643:33 - deprecated_member_use
+   info - 'color' is deprecated and shouldn't be used. use colors in eyeStyle and dataModuleStyle instead - lib\features\result\result_screen.dart:344:9 - deprecated_member_use
+   info - 'emptyColor' is deprecated and shouldn't be used. You should use the background color value of your container widget - lib\features\result\result_screen.dart:345:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\result\result_screen.dart:478:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\result\result_screen.dart:502:58 - deprecated_member_use
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\features\result\result_screen.dart:616:23 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\features\result\result_screen.dart:616:29 - deprecated_member_use
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\features\result\result_screen.dart:663:21 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\features\result\result_screen.dart:663:27 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\result\result_screen.dart:748:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\result\result_screen.dart:760:30 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\settings\settings_screen.dart:128:7 - deprecated_member_use
+warning - The value of the field '_animation' isn't used - lib\features\splash\splash.dart:15:26 - unused_field
+  error - The named parameter 'title' is required, but there's no corresponding argument - lib\features\splash\splash.dart:33:41 - missing_required_argument
+
